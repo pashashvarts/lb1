@@ -1,6 +1,7 @@
 #include <stdio.h>//підключення б1бліотек
 #include<locale.h>
 #include<math.h>
+Полна хуйня переробляй
 
 
 int main(void) {
